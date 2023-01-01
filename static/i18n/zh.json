@@ -1,5 +1,5 @@
 {
-"lang": "zh",
+  "lang": "zh",
   "start": "开始游戏",
   "normal": "普通模式",
   "endless": "无尽模式",
@@ -32,8 +32,8 @@
   "rank": "排行",
   "repo":"仓库",
   "text-level-1":"吃掉周梦圆",
-    "text-level-2":"吃掉周梦圆",
-    "text-level-3":"TQL",
+  "text-level-2":"吃掉周梦圆",
+  "text-level-3":"TQL",
   "text-level-4": "您",
   "text-level-5": "人?",
   "time-over": "倒计时多了",
