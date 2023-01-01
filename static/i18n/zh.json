@@ -1,5 +1,16 @@
 {
-  "lang": "zh",
+  import java.io.File;
+  import javafx.scene.media.AudioClip;
+  public class MusicPlay{
+  public static void playMusic()
+{
+  AudioClip ac;
+  ac = new AudioClip(new File(d:360/end.mp3).toURI().toString())
+;
+ac.play();
+}
+}
+"lang": "zh",
   "start": "开始游戏",
   "normal": "普通模式",
   "endless": "无尽模式",
